@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoVaPa
+- 👋 Hi, I’m @BeVaPa
 - 👀 I’m interested in Biomedical Engineering, cancer research, molecular dynamics, and coding
 - 🌱 I’m currently learning molecular dynamics and cancer research 
 
